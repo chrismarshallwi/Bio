@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrismarshallwi
-- 👀 I’m interested in data science/learning python and building data architecture
-- 🌱 I’m currently learning Python and would like to learn JavaScript 
-- 💞️ I’m looking to collaborate on building data pipelines, application development and front end development
+- 👀 I’m interested in everything data! I am learning how to build more structured data pipelines.
+- 🌱 I’m proficient in Python and SQL and learning how to build more structured data pipelines.
+- 💞️ I’m looking to collaborate on building anything data 
 - 📫 How to reach me: chrismarshall.wi@icloud.com
 
 <!---
