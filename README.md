@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chrismarshallwi
-- 👀 I’m interested in everything data! I am learning how to build more structured data pipelines.
-- 🌱 I’m proficient in Python and SQL and learning how to build more structured data pipelines.
-- 💞️ I’m looking to collaborate on building anything data 
-- 📫 How to reach me: chrismarshall.wi@icloud.com
+- 👀 The essence of Data Science is what I'm passionate about- learning from the past to make better decisions in the future.
+- 🌱 I’m proficient in Python, SQL, Power BI and Excel, of course. I'm looking to expand my expertise with R 
+- 💞️ My Github will be dedicated to storing code and project plans for a large range of data analysis projects.
+- 📫 Email: chrismarshall.wi@icloud.com
 
 <!---
 chrismarshallwi/chrismarshallwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
