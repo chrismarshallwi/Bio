@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrismarshallwi
 - 👀 The essence of Data Science is what I'm passionate about- learning from the past to make better decisions in the future.
-- 🌱 I’m proficient in Python, SQL, Power BI and Excel, of course. I'm looking to expand my expertise with R 
+- 🌱 I’m great with Python, SQL, Power BI and Excel. I'm looking to expand my expertise with R!
 - 💞️ My Github will be dedicated to storing code and project plans for a large range of data analysis projects.
 - 📫 Email: chrismarshall.wi@icloud.com
 
