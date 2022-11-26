@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrismarshallwi
-- 👀 The essence of Data Science is what I'm passionate about- learning from the past to make better decisions in the future.
-- 🌱 I’m great with Python, SQL, Power BI and Excel. I'm looking to expand my expertise with R!
-- 💞️ My Github will be dedicated to storing code and project plans for a large range of data analysis projects.
+- 👀 Data Scientist (Supply Chain) at Milwaukee Tool
+- 🌱 Get Data --> Analyze Data --> Tell a story with Data --> Make better & faster business decisions == My Data Science Philosophy
+- 💞️ Dedicated to personal projects and deep dive notebooks on open source Data Science applications/concepts
 - 📫 Email: chrismarshall.wi@icloud.com
 
 <!---
