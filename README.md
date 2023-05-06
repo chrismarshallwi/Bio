@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrismarshallwi
-- 👀 Data Scientist (Supply Chain) at Milwaukee Tool
-- 🌱 Get Data --> Analyze Data --> Tell a story with Data --> Make better & faster business decisions == My Data Science Philosophy
+- 👀 Data Scientist (Business Analytics) at Milwaukee Tool
+- 🌱 Skills: Python, SQL, Azure Databricks and Power BI
 - 💞️ Dedicated to personal projects and deep dive notebooks on open source Data Science applications/concepts
 - 📫 Email: chrismarshall.wi@icloud.com
 
